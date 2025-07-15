@@ -68,3 +68,10 @@ dotnet ef database update
 dotnet build
 dotnet run
 ```
+## 🚀 To Test API
+
+- Either you can use Swagger  default
+- Or you can use PostMan by connceting localhost:port in postman
+  
+
+---
